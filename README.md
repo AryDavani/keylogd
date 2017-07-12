@@ -1,4 +1,4 @@
-# A javascript keylogger.
+# A javascript keylogger
 
 ## TODO
 
