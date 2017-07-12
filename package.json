@@ -1,0 +1,23 @@
+{
+  "name": "keylogd",
+  "version": "1.0.0",
+  "description": "A keylogging server.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crc-32": "^1.0.2",
+    "express": "^4.15.3",
+    "express-useragent": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "keylogger",
+    "malware"
+  ],
+  "author": "Nicholas Farshidmehr",
+  "license": "MIT"
+}
